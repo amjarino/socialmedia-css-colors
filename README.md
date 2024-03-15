@@ -7,7 +7,7 @@ This repository provides a list of popular social media brand colors represented
 ## Social Media List
 
 Here's the list of social media brands with their respective CSS classes and Font Awesome v5 icons:
-
+(examples)[./thumb.png]
 <ul>
   <li class="facebook"><i class="fab fa-facebook-f"></i> Facebook</li>
   <li class="instagram"><i class="fab fa-instagram"></i> Instagram</li>
