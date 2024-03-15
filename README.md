@@ -9,6 +9,9 @@ This repository provides a list of popular social media brand colors represented
 Here's the list of social media brands with their respective CSS classes and Font Awesome v5 icons:
 
 ![alt](./thumb.png "example")
+
+```html
+
 <ul>
   <li class="facebook"><i class="fab fa-facebook-f"></i> Facebook</li>
   <li class="instagram"><i class="fab fa-instagram"></i> Instagram</li>
@@ -31,7 +34,7 @@ Here's the list of social media brands with their respective CSS classes and Fon
   <li class="slack"><i class="fab fa-slack"></i> Slack</li>
   <li class="tinder"><i class="fab fa-tinder"></i> Tinder</li>
 </ul>
-
+```
 ## Usage
 
 You can use these CSS classes and Font Awesome icons in your HTML to style social media buttons or icons:
